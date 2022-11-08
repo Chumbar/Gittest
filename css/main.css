@@ -43,7 +43,6 @@ body {
     border: 2px dotted rgba(36, 37, 36, 0.526);
     float: left;
     margin-right: 2%;
-    position: relative;
     top: 10px;
 }
 #aside {
